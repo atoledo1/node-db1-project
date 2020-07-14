@@ -43,7 +43,7 @@ Visit [SQL Try Editor at W3Schools.com](https://www.w3schools.com/Sql/trysql.asp
 
 The following exercises **require research**, the concepts needed to complete them have not been covered in class yet.
 
-- Run more queries.
+- Run more queries..
 
   - Find a query to discover how many different cities are stored in the Customers table. Repeats should not be double counted. Should be 69.
   - Find all suppliers who have names longer than 20 characters. Returns 11 records.
